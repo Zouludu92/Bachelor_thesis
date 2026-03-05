@@ -1,2 +1,2 @@
 # Bachelor_thesis
-Repo for the project SCION of NetSec 
+Repo for my bachelor thesis
